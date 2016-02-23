@@ -1,0 +1,5 @@
+The occurrence of .selectSingleNode was located 11 time(s) in this web resource.
+The occurrence of .selectNodes was located 2 time(s) in this web resource.
+The occurrence of .text was located 8 time(s) in this web resource.
+The occurrence of ActiveXObject( was located 2 time(s) in this web resource.
+The occurrence of .childNodes[ was located 2 time(s) in this web resource.

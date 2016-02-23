@@ -1,0 +1,15 @@
+The occurrence of .SetFieldReqLevel was located 10 time(s) in this web resource.
+The occurrence of crmForm.all was located 418 time(s) in this web resource.
+The occurrence of .text was located 2 time(s) in this web resource.
+The occurrence of ActiveXObject( was located 5 time(s) in this web resource.
+The occurrence of .innerText was located 60 time(s) in this web resource.
+The occurrence of document.all was located 659 time(s) in this web resource.
+The occurrence of .Save( was located 2 time(s) in this web resource.
+The occurrence of .FormType was located 5 time(s) in this web resource.
+The occurrence of .SetFocus( was located 1 time(s) in this web resource.
+The occurrence of .ObjectId was located 1 time(s) in this web resource.
+The occurrence of .Min was located 1 time(s) in this web resource.
+The occurrence of .DataValue was located 639 time(s) in this web resource.
+The occurrence of .Disabled was located 185 time(s) in this web resource.
+The occurrence of .SelectedText was located 35 time(s) in this web resource.
+The occurrence of .ForceSubmit was located 24 time(s) in this web resource.

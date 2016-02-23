@@ -1,0 +1,9 @@
+Make soap requests with a Dynamics CRM server. On-prem or online!
+
+# Installation
+
+`pip install -r requirements.txt`
+
+# Known Issues
+
+We haven't made a package out of this, but if anyone out there uses this, please file an issue to let us know we should make it more installable.

@@ -1,0 +1,4 @@
+The occurrence of .text was located 1 time(s) in this web resource.
+The occurrence of .childNodes.length was located 2 time(s) in this web resource.
+The occurrence of .firstChild was located 2 time(s) in this web resource.
+The occurrence of .childNodes[ was located 2 time(s) in this web resource.

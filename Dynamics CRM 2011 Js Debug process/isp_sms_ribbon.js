@@ -1,0 +1,1 @@
+function Mscrm_Isv_isp_sms_Form_Group0_Control0_1(){if (crmForm.IsDirty){alert ("You must save the changes before you can send this message.");} else {crmForm.all.isp_status.DataValue = 2; crmForm.SaveAndClose();}}
